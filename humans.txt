@@ -1,0 +1,19 @@
+//* TEAM *//
+
+Picateclas: BCasal
+Site: www.bcasal.es - bcasal@bcasal.es - www.bcasal.es/contacto
+Twitter: @BCasalTweet
+Location: Alicante, Spain.
+
+
+//* THANKS *//
+
+
+
+
+//* SITE *//
+
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3, JS
+Components: Modernizr, Normalize, Boilerplate.
+Software: BunsenLabs, Atom, Git.
