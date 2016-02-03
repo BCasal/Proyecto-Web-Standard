@@ -3,24 +3,24 @@
 Plantillas y **estructura** de carpetas **Standard** para un
 **proyecto Web**.
 
-Proyecto-Web-Standard/
-├── css
-│   ├── vendors
-│   │   ├── LICENSE.md
-│   │   └── normalize.css
-│   └── style.css
-├── js
-│   ├── vendors
-│   │   ├── LICENSE.md
-│   │   └── modernizr-custom.js
-│   └── main.js
-├── 404.html
-├── .gitignore
-├── .htaccess
-├── index.html
-├── LICENSE.md
-├── README.md
-└── robots.txt
+	Proyecto-Web-Standard/
+	├── css
+	│   ├── vendors
+	│   │   ├── LICENSE.md
+	│   │   └── normalize.css
+	│   └── style.css
+	├── js
+	│   ├── vendors
+	│   │   ├── LICENSE.md
+	│   │   └── modernizr-custom.js
+	│   └── main.js
+	├── 404.html
+	├── .gitignore
+	├── .htaccess
+	├── index.html
+	├── LICENSE.md
+	├── README.md
+	└── robots.txt
 
 Usando como referencia **Boilerplate v5.3.0** para la estructura de carpetas,
 el _archivo 404.html_ completo, la codificación de caracteres y la
