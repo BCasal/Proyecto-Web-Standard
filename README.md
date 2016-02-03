@@ -17,6 +17,7 @@ Plantillas y **estructura** de carpetas **Standard** para un
 	├── 404.html
 	├── .gitignore
 	├── .htaccess
+	├── humans.txt
 	├── index.html
 	├── LICENSE.md
 	├── README.md
