@@ -1,19 +1,27 @@
-//* TEAM *//
+# humanstxt.org/
+# The humans responsible & technology colophon
 
-Picateclas: BCasal
-Site: www.bcasal.es - bcasal@bcasal.es - www.bcasal.es/contacto
-Twitter: @BCasalTweet
-Location: Alicante, Spain.
+# TEAM 
 
-
-//* THANKS *//
-
-
+  Picateclas: BCasal
+  Site: www.bcasal.es - bcasal@bcasal.es - www.bcasal.es/contacto
+  Twitter: @BCasalTweet
+  Location: Alicante, Spain.
 
 
-//* SITE *//
+# THANKS
 
-Last update: YYYY/MM/DD
-Standards: HTML5, CSS3, JS
-Components: Modernizr, Normalize, Boilerplate.
-Software: BunsenLabs, Atom, Git.
+  <name>
+
+
+# SITE
+
+  Last update: YYYY/MM/DD
+
+
+
+# TECHNOLOGY COLOPHON
+
+  Standards: HTML5, CSS3, JS
+  Components: Modernizr, Normalize, Boilerplate.
+  Software: BunsenLabs, Atom, Git.
