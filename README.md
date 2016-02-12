@@ -24,8 +24,7 @@ Plantillas y **estructura** de carpetas **Standard** para un
 	└── robots.txt
 
 Usando como referencia **Boilerplate v5.3.0** para la estructura de carpetas,
-el _archivo 404.html_ completo, la codificación de caracteres y la
-redirección al archivo 404.html del _.htaccess_
+el _archivo 404.html_ y el _.htaccess_ completos.
 
   * Copyright (c) HTML5 Boilerplate
   * [Licencia MIT](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
@@ -46,7 +45,7 @@ Nicolas Gallagher y Jonathan Neal.
   * [Documentación](http://nicolasgallagher.com/about-normalize-css/)
   * [Twitter Nicolas](https://twitter.com/necolas)
   
-En la carpeta **js/vendors se incluye **Modenizer 3.3.1 (Custom Build)**
+En la carpeta **js/vendors se incluye Modenizer 3.3.1 (Custom Build)**
 con el test de unidades de medida _VH_ de _CSS_
 
  * Copyright (c) Modernizr
