@@ -1,7 +1,6 @@
 # Proyecto Web Standard
 
-Plantillas y **estructura** de carpetas **Standard** para un
-**proyecto Web**.
+Plantillas y **estructura** de carpetas **Standard** para un **proyecto Web**.
 
 ## Estructura
 
@@ -73,8 +72,15 @@ unidades de medida _VH_ de _CSS_.
 	 - [Stu Cox](@StuCoxMedia)
 	 - [Richard Herrera](@doctyper)
 
-En el archivo **main.js** está escrita la llamada al test para la unidad
-de medida _VH_ de _CSS_
+En el archivo **main.js** está escrita la llamada al test para la unidad de
+medida _VH_ de _CSS_.
+
+## Agradecimientos
+
+**Un gran agradecimiento todos los miembros** de los equipos de desarrrollo de
+Boilerplate, Normalize y Modernizr.
+
+## Licencia
 
 Proyecto creado por [Bcasal](http://bcasal.es)
-bajo [Licencia MIT](https://opensource.org/licenses/MIT).
+bajo [Licencia MIT](https://github.com/BCasal/Proyecto-Web-Standard/blob/master/LICENSE.md).
