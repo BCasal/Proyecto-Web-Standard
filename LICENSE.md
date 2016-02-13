@@ -1,8 +1,10 @@
+# License
+
 The MIT License (MIT)
 
 Copyright (c) 2016 BCasal
 
-### es
+## ES
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 de este software y archivos de documentación asociados (el "Software"), para hacer frente
@@ -21,7 +23,7 @@ AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑ
 RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO,
 DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
 
-### en
+## EN
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -42,10 +44,47 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-### Componentes
+## Components license info
 
-MODERNIZR: The MIT License (MIT) · Copyright (c) Modernizr
+### Boilerplate
 
-NORMALIZE: The MIT License (MIT) · Copyright (c) Nicolas Gallagher and Jonathan Neal
+  Copyright (c) HTML5 Boilerplate
 
-BOILERPLATE: The MIT License (MIT) · Copyright (c) HTML5 Boilerplate
+  Authors:
+    - Mathias Bynens - @mathias
+    - Hans Christian Reinl - @drublic
+    - Cătălin Mariș - @alrra
+    - Nicolas Gallagher - @necolas
+    - Paul Irish - @paul_irish
+    - Divya Manian - @divya
+
+  License:  The MIT License (https://opensource.org/licenses/MIT)
+  Homepage: https://html5boilerplate.com
+
+
+### Normalize
+
+  Copyright (c) Nicolas Gallagher and Jonathan Neal
+
+  Authors:
+    - Nicolas Gallagher - @necolas
+    - Jonathan Neal - @jon_neal
+
+  License:  The MIT License (https://opensource.org/licenses/MIT)
+  Homepage: http://necolas.github.io/normalize.css
+
+### Modernizr
+
+  Copyright (c) Modernizr
+
+  Authors:
+    - Faruk Ateş - @KuraFire
+    - Paul Irish - @paul_irish
+    - Alex Sexton - @SlexAxton
+    - Ryan Seddon - @ryanseddon
+    - Patrick Kettner - @patrickkettner
+    - Stu Cox - @StuCoxMedia
+    - Richard Herrera - @doctyper
+
+  License: The MIT License (https://opensource.org/licenses/MIT)
+  Homepage: https://modernizr.com
