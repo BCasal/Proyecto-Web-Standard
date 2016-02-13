@@ -48,43 +48,43 @@ SOFTWARE.
 
 ### Boilerplate
 
-  Copyright (c) HTML5 Boilerplate
+Copyright (c) HTML5 Boilerplate
 
-  Authors:
-    - Mathias Bynens - @mathias
-    - Hans Christian Reinl - @drublic
-    - Cătălin Mariș - @alrra
-    - Nicolas Gallagher - @necolas
-    - Paul Irish - @paul_irish
-    - Divya Manian - @divya
+Authors:
+  - Mathias Bynens - Twitter (@mathias)
+  - Hans Christian Reinl - Twitter (@drublic)
+  - Cătălin Mariș - Twitter (@alrra)
+  - Nicolas Gallagher - Twitter (@necolas)
+  - Paul Irish - Twitter (@paul_irish)
+  - Divya Manian - Twitter (@divya)
 
-  License:  The MIT License (https://opensource.org/licenses/MIT)
-  Homepage: https://html5boilerplate.com
+License:  The MIT License (https://opensource.org/licenses/MIT)
+Homepage: https://html5boilerplate.com
 
 
 ### Normalize
 
-  Copyright (c) Nicolas Gallagher and Jonathan Neal
+Copyright (c) Nicolas Gallagher and Jonathan Neal
 
-  Authors:
-    - Nicolas Gallagher - @necolas
-    - Jonathan Neal - @jon_neal
+Authors:
+  - Nicolas Gallagher - Twitter (@necolas)
+  - Jonathan Neal - Twitter (@jon_neal)
 
-  License:  The MIT License (https://opensource.org/licenses/MIT)
-  Homepage: http://necolas.github.io/normalize.css
+License:  The MIT License (https://opensource.org/licenses/MIT)
+Homepage: http://necolas.github.io/normalize.css
 
 ### Modernizr
 
-  Copyright (c) Modernizr
+Copyright (c) Modernizr
 
-  Authors:
-    - Faruk Ateş - @KuraFire
-    - Paul Irish - @paul_irish
-    - Alex Sexton - @SlexAxton
-    - Ryan Seddon - @ryanseddon
-    - Patrick Kettner - @patrickkettner
-    - Stu Cox - @StuCoxMedia
-    - Richard Herrera - @doctyper
+Authors:
+  - Faruk Ateş - Twitter (@KuraFire)
+  - Paul Irish - Twitter (@paul_irish)
+  - Alex Sexton - Twitter (@SlexAxton)
+  - Ryan Seddon - Twitter (@ryanseddon)
+  - Patrick Kettner - Twitter (@patrickkettner)
+  - Stu Cox - Twitter (@StuCoxMedia)
+  - Richard Herrera - Twitter (@doctyper)
 
-  License: The MIT License (https://opensource.org/licenses/MIT)
-  Homepage: https://modernizr.com
+License: The MIT License (https://opensource.org/licenses/MIT)
+Homepage: https://modernizr.com
