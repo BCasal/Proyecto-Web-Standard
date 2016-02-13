@@ -51,14 +51,15 @@ SOFTWARE.
 Copyright (c) HTML5 Boilerplate
 
 Authors:
-  - Mathias Bynens - Twitter (@mathias)
-  - Hans Christian Reinl - Twitter (@drublic)
-  - Cătălin Mariș - Twitter (@alrra)
-  - Nicolas Gallagher - Twitter (@necolas)
-  - Paul Irish - Twitter (@paul_irish)
-  - Divya Manian - Twitter (@divya)
+  - Mathias Bynens        - Twitter   (@mathias)
+  - Hans Christian Reinl  - Twitter   (@drublic)
+  - Cătălin Mariș         - Twitter   (@alrra)
+  - Nicolas Gallagher     - Twitter   (@necolas)
+  - Paul Irish            - Twitter   (@paul_irish)
+  - Divya Manian          - Twitter   (@divya)
 
 License:  The MIT License (https://opensource.org/licenses/MIT)
+
 Homepage: https://html5boilerplate.com
 
 
@@ -67,10 +68,11 @@ Homepage: https://html5boilerplate.com
 Copyright (c) Nicolas Gallagher and Jonathan Neal
 
 Authors:
-  - Nicolas Gallagher - Twitter (@necolas)
-  - Jonathan Neal - Twitter (@jon_neal)
+  - Nicolas Gallagher - Twitter   (@necolas)
+  - Jonathan Neal     - Twitter   (@jon_neal)
 
 License:  The MIT License (https://opensource.org/licenses/MIT)
+
 Homepage: http://necolas.github.io/normalize.css
 
 ### Modernizr
@@ -78,13 +80,14 @@ Homepage: http://necolas.github.io/normalize.css
 Copyright (c) Modernizr
 
 Authors:
-  - Faruk Ateş - Twitter (@KuraFire)
-  - Paul Irish - Twitter (@paul_irish)
-  - Alex Sexton - Twitter (@SlexAxton)
-  - Ryan Seddon - Twitter (@ryanseddon)
-  - Patrick Kettner - Twitter (@patrickkettner)
-  - Stu Cox - Twitter (@StuCoxMedia)
-  - Richard Herrera - Twitter (@doctyper)
+  - Faruk Ateş      - Twitter  (@KuraFire)
+  - Paul Irish      - Twitter  (@paul_irish)
+  - Alex Sexton     - Twitter  (@SlexAxton)
+  - Ryan Seddon     - Twitter  (@ryanseddon)
+  - Patrick Kettner - Twitter  (@patrickkettner)
+  - Stu Cox         - Twitter  (@StuCoxMedia)
+  - Richard Herrera - Twitter  (@doctyper)
 
 License: The MIT License (https://opensource.org/licenses/MIT)
+
 Homepage: https://modernizr.com
