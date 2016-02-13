@@ -29,12 +29,12 @@ Plantillas y **estructura** de carpetas **Standard** para un **proyecto Web**.
 **Boilerplate v5.3.0** para la estructura de carpetas, el _archivo 404.html_
 y el _.htaccess_ completos.
 
-  * Copyright (c) HTML5 Boilerplate
-  * [Licencia](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
-  * [WebSite](https://html5boilerplate.com/)
-  * [GitHub](https://github.com/h5bp/html5-boilerplate)
-  * [Docs](https://github.com/h5bp/html5-boilerplate/blob/5.3.0/dist/doc/TOC.md)
-  * [Twitter](https://twitter.com/h5bp)
+	* Copyright (c) HTML5 Boilerplate
+	* [Licencia](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
+	* [WebSite](https://html5boilerplate.com/)
+	* [GitHub](https://github.com/h5bp/html5-boilerplate)
+	* [Docs](https://github.com/h5bp/html5-boilerplate/blob/5.3.0/dist/doc/TOC.md)
+	* [Twitter](https://twitter.com/h5bp)
 	* Authors:
 		- [Mathias Bynens](@mathias)
 		- [Hans Christian Reinl](@drublic)
