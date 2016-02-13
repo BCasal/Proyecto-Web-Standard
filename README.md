@@ -85,4 +85,4 @@ Boilerplate, Normalize y Modernizr.
 ## Licencia
 
 Proyecto creado por [Bcasal](http://bcasal.es)
-bajo [Licencia MIT](https://github.com/BCasal/Proyecto-Web-Standard/blob/master/LICENSE.md).
+bajo [Licencia MIT](https://github.com/BCasal/Proyecto-Web-Standard/blob/master/LICENSE).
