@@ -25,7 +25,7 @@ Plantillas y **estructura** de carpetas **Standard** para un
 	├── README.md
 	└── robots.txt
 
-## Carácteristicas
+## Componentes
 
 **Boilerplate v5.3.0** para la estructura de carpetas, el _archivo 404.html_
 y el _.htaccess_ completos.
