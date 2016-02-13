@@ -36,12 +36,12 @@ y el _.htaccess_ completos.
 * [Docs](https://github.com/h5bp/html5-boilerplate/blob/5.3.0/dist/doc/TOC.md)
 * [Twitter](https://twitter.com/h5bp)
 * Autores:
-	- [Mathias Bynens](https://twitte.com/mathias)
-	- [Hans Christian Reinl](https://twitte.com/drublic)
-	- [Cătălin Mariș](https://twitte.com/alrra)
-	- [Nicolas Gallagher](https://twitte.com/necolas)
-	- [Paul Irish](https://twitte.com/paul_irish)
-	- [Divya Manian](https://twitte.com/divya)
+	- [Mathias Bynens](https://twitter.com/mathias)
+	- [Hans Christian Reinl](https://twitter.com/drublic)
+	- [Cătălin Mariș](https://twitter.com/alrra)
+	- [Nicolas Gallagher](https://twitter.com/necolas)
+	- [Paul Irish](https://twitter.com/paul_irish)
+	- [Divya Manian](https://twitter.com/divya)
 
 **Normalize v3.0.3** en la carpeta **css/vendors**.
 
