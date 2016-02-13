@@ -20,7 +20,7 @@ Plantillas y **estructura** de carpetas **Standard** para un **proyecto Web**.
 	├── .htaccess
 	├── humans.txt
 	├── index.html
-	├── LICENSE.md
+	├── LICENSE
 	├── README.md
 	└── robots.txt
 
@@ -31,46 +31,46 @@ y el _.htaccess_ completos.
 
 * Copyright (c) HTML5 Boilerplate
 * [Licencia](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
-* [WebSite](https://html5boilerplate.com/)
+* [Web](https://html5boilerplate.com)
 * [GitHub](https://github.com/h5bp/html5-boilerplate)
 * [Docs](https://github.com/h5bp/html5-boilerplate/blob/5.3.0/dist/doc/TOC.md)
 * [Twitter](https://twitter.com/h5bp)
-* Authors:
-	- [Mathias Bynens](@mathias)
-	- [Hans Christian Reinl](@drublic)
-	- [Cătălin Mariș](@alrra)
-	- [Nicolas Gallagher](@necolas)
-	- [Paul Irish](@paul_irish)
-	- [Divya Manian](@divya)
+* Autores:
+	- [Mathias Bynens](https://twitte.com/mathias)
+	- [Hans Christian Reinl](https://twitte.com/drublic)
+	- [Cătălin Mariș](https://twitte.com/alrra)
+	- [Nicolas Gallagher](https://twitte.com/necolas)
+	- [Paul Irish](https://twitte.com/paul_irish)
+	- [Divya Manian](https://twitte.com/divya)
 
 **Normalize v3.0.3** en la carpeta **css/vendors**.
 
 * Copyright (c) Nicolas Gallagher and Jonathan Neal
 * [Licencia](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
-* [WebSite](http://necolas.github.io/normalize.css)
+* [Web](http://necolas.github.io/normalize.css)
 * [GitHub](https://github.com/necolas/normalize.css)
 * [Docs](http://nicolasgallagher.com/about-normalize-css)
-* Authors:
-	- [Nicolas Gallagher](@necolas)
-	- [Jonathan Neal](@jon_neal)
+* Autores:
+	- [Nicolas Gallagher](https://twitter.com/necolas)
+	- [Jonathan Neal](https://twitter.com/jon_neal)
 
-**Modenizer 3.3.1 (Custom Build)** en la carpeta **js/vendors** con el test de
+**Modenizr 3.3.1 (Custom Build)** en la carpeta **js/vendors** con el test de
 unidades de medida _VH_ de _CSS_.
 
 * Copyright (c) Modernizr
 * [Licencia](https://opensource.org/licenses/MIT)
-* [WebSite](https://modernizr.com/)
+* [Web](https://modernizr.com)
 * [GiHub](https://github.com/Modernizr/Modernizr)
 * [Docs](https://modernizr.com/docs)
 * [Twitter](https://twitter.com/modernizr)
-* Authors:
- - [Faruk Ateş](@KuraFire)
- - [Paul Irish](@paul_irish)
- - [Alex Sexton](@SlexAxton)
- - [Ryan Seddon](@ryanseddon)
- - [Patrick Kettner](@patrickkettner)
- - [Stu Cox](@StuCoxMedia)
- - [Richard Herrera](@doctyper)
+* Autores:
+ - [Faruk Ateş](https://twitter.com/KuraFire)
+ - [Paul Irish](https://twitter.com/paul_irish)
+ - [Alex Sexton](https://twitter.com/SlexAxton)
+ - [Ryan Seddon](https://twitter.com/ryanseddon)
+ - [Patrick Kettner](https://twitter.com/patrickkettner)
+ - [Stu Cox](https://twitter.com/StuCoxMedia)
+ - [Richard Herrera](https://twitter.com/doctyper)
 
 ## JavaScript
 
@@ -79,8 +79,10 @@ medida _VH_ de _CSS_.
 
 ## Agradecimientos
 
-**Un gran agradecimiento todos los miembros** de los equipos de desarrrollo de
-Boilerplate, Normalize y Modernizr.
+**Un gran agradecimiento a todos los miembros** de los equipos de desarrrollo de
+[Boilerplate](https://html5boilerplate.com),
+[Normalize](http://necolas.github.io/normalize.css) y
+[Modernizr](https://modernizr.com).
 
 ## Licencia
 
