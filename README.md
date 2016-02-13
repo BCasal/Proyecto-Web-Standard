@@ -37,22 +37,22 @@ y el _.htaccess_ completos.
   * [Twitter](https://twitter.com/h5bp)
 	* Authors:
 		- [Mathias Bynens](@mathias)
-    - [Hans Christian Reinl](@drublic)
-    - [Cătălin Mariș](@alrra)
-    - [Nicolas Gallagher](@necolas)
-    - [Paul Irish](@paul_irish)
-    - [Divya Manian](@divya)
+		- [Hans Christian Reinl](@drublic)
+		- [Cătălin Mariș](@alrra)
+		- [Nicolas Gallagher](@necolas)
+		- [Paul Irish](@paul_irish)
+		- [Divya Manian](@divya)
 
 **Normalize v3.0.3** en la carpeta **css/vendors**.
 
   * Copyright (c) Nicolas Gallagher and Jonathan Neal
-  * [Licencia](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
+	* [Licencia](https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
 	* [WebSite](http://necolas.github.io/normalize.css)
-  * [GitHub](https://github.com/necolas/normalize.css)
-  * [Docs](http://nicolasgallagher.com/about-normalize-css)
+	* [GitHub](https://github.com/necolas/normalize.css)
+	* [Docs](http://nicolasgallagher.com/about-normalize-css)
 	* Authors:
-    - [Nicolas Gallagher](@necolas)
-    - [Jonathan Neal](@jon_neal)
+		- [Nicolas Gallagher](@necolas)
+		- [Jonathan Neal](@jon_neal)
 
 **Modenizer 3.3.1 (Custom Build)** en la carpeta **js/vendors** con el test de
 unidades de medida _VH_ de _CSS_.
@@ -71,6 +71,8 @@ unidades de medida _VH_ de _CSS_.
 	 - [Patrick Kettner](@patrickkettner)
 	 - [Stu Cox](@StuCoxMedia)
 	 - [Richard Herrera](@doctyper)
+
+## JavaScript
 
 En el archivo **main.js** está escrita la llamada al test para la unidad de
 medida _VH_ de _CSS_.
